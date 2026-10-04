@@ -4,7 +4,7 @@ This project was created while working through the official Khronos Vulkan tutor
 
 ## This is NOT original code
 
-This code is based on the official Khronos Vulkan tutorial and was created as a project to showcase my understanding of the API.
+This code is based on the official Khronos Vulkan tutorial and was created as a project to develop my understanding of the API.
 
 I have used this project as a foundation for my other Vulkan projects, such as my Vulkan Template, to help me develop my knowledge of graphics programming.
 
